@@ -7,7 +7,7 @@ import AcademyLogo from "../Assets/Outlook-4n2yii3h (1).gif";
 const Login = () => {
   // Admin credentials
   const ADMIN_CREDENTIALS = {
-    email: "Admin@vision.com",
+    email: "Admin123@vision.com",
     password: "admin123",
   };
 
